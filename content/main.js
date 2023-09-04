@@ -14,7 +14,7 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'not fast websites yet.' },
+      { text: 'no fast websites yet.' },
       { text: 'great experiences.' },
       { text: 'but no beautiful logos.' },
     ],
